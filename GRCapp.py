@@ -52,7 +52,7 @@ def generate_subtask_id(df, project, main_task_id):
     return str(next_subtask_num)
 
 # --- App Title ---
-st.title("📋 GRC Project Tracker")
+st.title("📋 GRC Project Management")
 df = load_data()
 
 # --- Add New Project ---
