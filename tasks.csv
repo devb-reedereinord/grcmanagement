@@ -1,0 +1,26 @@
+Project,Purpose,Project Start Date,Project End Date,Main Task,Subtask,Task ID,Task Description,R,A,C,I,Start Date,Due Date,Status,Comments
+DA Desk and Husbandry Agents Management,To streamline the procedures of appointing the DA Desk and managing husbandry agents.,,,1,0.0,1.0,DA Desk Management,,,,,,,,
+DA Desk and Husbandry Agents Management,To streamline the procedures of appointing the DA Desk and managing husbandry agents.,,,1,1.0,1.1,Review and renew the Agreement with DA Desk,ANC,ANC,"AG, SB","Ops, Acc, AG",,,In Progress,
+DA Desk and Husbandry Agents Management,To streamline the procedures of appointing the DA Desk and managing husbandry agents.,,,1,2.0,1.2,Review the budgeting codes on the DA platform,SB,ANC,,All,,,Completed,
+DA Desk and Husbandry Agents Management,To streamline the procedures of appointing the DA Desk and managing husbandry agents.,,,1,3.0,1.3,Review PortsPayables SOP process chart,ANC,ANC,SB,,,,In Progress,
+DA Desk and Husbandry Agents Management,To streamline the procedures of appointing the DA Desk and managing husbandry agents.,,,1,4.0,1.4,Provide DA Desk with actual account codes,SB,ANC,AB,"Ops, Tech, Purch, Pers",,,Completed,
+DA Desk and Husbandry Agents Management,To streamline the procedures of appointing the DA Desk and managing husbandry agents.,,,1,5.0,1.5,Improve the value of the comments on the platform,"ML, AB",ANC,,,,,In Progress,
+DA Desk and Husbandry Agents Management,To streamline the procedures of appointing the DA Desk and managing husbandry agents.,,,2,0.0,2.0,Husbandry Agents KYC & Compliance,,,,,,,,
+DA Desk and Husbandry Agents Management,To streamline the procedures of appointing the DA Desk and managing husbandry agents.,,,2,1.0,2.1,Standardize the Agency Agreements and T&C,"ANC, AG",ANC,,All,,,Completed,
+DA Desk and Husbandry Agents Management,To streamline the procedures of appointing the DA Desk and managing husbandry agents.,,,2,2.0,2.2,Review the Procedure for Agency Appointments,RM,ANC,,Ops,,,Planned,Focus on risk mitigation for lack of Agency appointments via DA Desk
+DA Desk and Husbandry Agents Management,To streamline the procedures of appointing the DA Desk and managing husbandry agents.,,,2,3.0,2.3,Create the Risk Assessment for Agency KYC,AG,ANC,"SB, AB",Ops,,,In Progress,
+DA Desk and Husbandry Agents Management,To streamline the procedures of appointing the DA Desk and managing husbandry agents.,,,2,4.0,2.4,Review the Procedure for Agency Audits,RM,ANC,,Ops,,,In Progress,
+DA Desk and Husbandry Agents Management,To streamline the procedures of appointing the DA Desk and managing husbandry agents.,,,2,5.0,2.5,"Benchmark the Agents against fees, services and performance","AB, ANC",ANC,,"Ops, Tech, Purch, Pers",,,In Progress,
+DA Desk and Husbandry Agents Management,To streamline the procedures of appointing the DA Desk and managing husbandry agents.,,,3,0.0,3.0,Financial Aspects,,,,,,,,
+DA Desk and Husbandry Agents Management,To streamline the procedures of appointing the DA Desk and managing husbandry agents.,,,3,1.0,3.1,Monitor prepayments and balance payments,SB,ANC,,Acc,,,,
+DA Desk and Husbandry Agents Management,To streamline the procedures of appointing the DA Desk and managing husbandry agents.,,,3,2.0,3.2,Review and decision on Port Call Financing and ForEx,SB,ANC,,"Acc, Mng",,,,
+DA Desk and Husbandry Agents Management,To streamline the procedures of appointing the DA Desk and managing husbandry agents.,,,3,3.0,3.3,Review and approve payments for Husbandry Agents with complex setups,SB,ANC,,"Acc, AG, Ops",,,,
+DA Desk and Husbandry Agents Management,To streamline the procedures of appointing the DA Desk and managing husbandry agents.,,,4,0.0,4.0,Data Management,,,,,,,,
+DA Desk and Husbandry Agents Management,To streamline the procedures of appointing the DA Desk and managing husbandry agents.,,,4,1.0,4.1,"Decision on type of data collection, monitoring and storage",DB,ANC,Ops,"Ops, Mng",,,Planned,
+DA Desk and Husbandry Agents Management,To streamline the procedures of appointing the DA Desk and managing husbandry agents.,,,5,0.0,5.0,Training and Communication,,,,,,,,
+DA Desk and Husbandry Agents Management,To streamline the procedures of appointing the DA Desk and managing husbandry agents.,,,5,1.0,5.1,Communicate the proper use of the DA platform to departments,RM,ANC,,,,,,Training conducted by the DA
+DA Desk and Husbandry Agents Management,To streamline the procedures of appointing the DA Desk and managing husbandry agents.,,,5,2.0,5.2,Communicate the revised processes to all employees,AG,ANC,,,,,,Presentation
+Data Management Procedure,To streamline data processes in the organization,26/05/2025,31/12/2025,1,,1.0,Talk with Different Departments,,,,,26/05/2025,30/07/2025,Not Started,
+Data Management Procedure,To streamline data processes in the organization,26/05/2025,31/12/2025,1,1.0,1.1,Speak to Tech Dept,DB,DB,All,Tech,,,Not Started,
+Data Management Procedure,To streamline data processes in the organization,26/05/2025,31/12/2025,1,1.0,1.1,,,,,,26/05/2025,26/05/2025,Not Started,
+DA Desk and Husbandry Agents Management,To streamline the procedures of appointing the DA Desk and managing husbandry agents.,,,1,6,1.6,,,,,,27/05/2025,27/05/2025,Not Started,
